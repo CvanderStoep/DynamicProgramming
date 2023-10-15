@@ -3,7 +3,9 @@
 
 # Virtual environments
 .venv/
+venv/
 
 # Caches
 __pycache__/
 
+*test*
